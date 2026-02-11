@@ -1,0 +1,5 @@
+{
+  "name": "MarketMind AI",
+  "description": "An AI-powered stock analysis dashboard that provides real-time metrics, technical indicators, and comprehensive financial summaries using Google Gemini with Search Grounding.",
+  "requestFramePermissions": []
+}
